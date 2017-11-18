@@ -1,0 +1,1 @@
+<h1>Your PayPal transaction has been success.</h1>
